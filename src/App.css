@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+header {background-color: #08090b; color: white;
+
+}
+
+h1 {font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-style: italic;
+text-shadow: #61dafb; text-shadow: 30px;
+
+}
+
+h3 {font-family: fantasy;
+
+
+}
+
+body {background-color: rgb(205, 255, 154) ;
+
+
+}
