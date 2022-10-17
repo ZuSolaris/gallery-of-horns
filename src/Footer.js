@@ -6,15 +6,12 @@ class Footer extends React.Component {
 
   render() {
     return (
-      <>
-        <>Zoe Gonzalez </>
-      </>
-
-
-
+       <>
+       <footer>
+      <h4>Zoe Gonzalez </h4>
+       </footer>
+        </>
     )
-
   }
-
 }
-export default Footer;
+        export default Footer;
