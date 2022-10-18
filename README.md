@@ -70,8 +70,46 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 Image Sources: https://unsplash.com/photos/lqVe6NdK8bQ
-
 Credit: Photos By Beks, @photosbybeks @unsplash
 
 Image Sources: https://unsplash.com/photos/KTYjVDmN4A4
 Credit: Meritt Thomas @unsplash
+
+Image Sources: https://unsplash.com/photos/epRlEd6oTmE
+Credit: Alexander Grey @sharonmccutcheon
+
+
+Lab 2: features
+
+Feature #1: Display images
+
+Estimate of time needed to complete:20 mins
+
+Start time: 1:06
+
+Finish time: 1:15
+
+Actual time needed to complete:  9 Minutes
+
+
+Feature #2: Allow users to vote for their favorite beast
+
+Estimate of time needed to complete: 2 hours. 
+
+Start time: 1:25
+
+Finish time: 1:50
+
+Actual time needed to complete: 25 mins
+
+Feature 3: Bootstrap
+
+Estimate of time needed to complete: 20 minutes
+
+Start time: 1:50
+
+Finish time: 2:08
+
+Actual time needed to complete: 18 Mins
+
+WOW
