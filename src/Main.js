@@ -1,13 +1,13 @@
 import React from 'react';
 import Hornedbeast from './Hornedbeast.js';
-import data from './data.json';
 import './Main.css';
 
 
 class Main extends React.Component {
   render() {
     let beastren = [];
-    data.forEach((beast, index) => {
+    
+    this.props.dataimport.forEach((beast, index) => {
       beastren.push(
         <Hornedbeast
           id={beast._id}
@@ -17,6 +17,8 @@ class Main extends React.Component {
           keyword={beast.keyword}
           numof={beast.horns}
           key={index}
+          addlikes={this.props.addLikes}
+          openModal={this.props.openModal}
         />
       )
     });

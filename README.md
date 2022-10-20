@@ -79,7 +79,7 @@ Image Sources: https://unsplash.com/photos/epRlEd6oTmE
 Credit: Alexander Grey @sharonmccutcheon
 
 
-Lab 2: features
+Lab 2: features timer
 
 Feature #1: Display images
 

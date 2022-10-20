@@ -46,7 +46,10 @@ header {
 
 
 h2 {
+  margin-right:auto;
+  margin-left:auto;
   font-family: fantasy;
+  font-size: larger;
 
 
 }
@@ -72,9 +75,11 @@ body {
 }
 
 h4 {
+  margin-top: auto;
   background-color: #08090b;
   color: white;
   font-weight: bolder;
+  
 }
 
 .rainbowtext {
