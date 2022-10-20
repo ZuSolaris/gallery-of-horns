@@ -91,6 +91,8 @@ Finish time: 1:15
 
 Actual time needed to complete:  9 Minutes
 
+Lab 3: Modul
+
 
 Feature #2: Allow users to vote for their favorite beast
 
@@ -112,4 +114,12 @@ Finish time: 2:08
 
 Actual time needed to complete: 18 Mins
 
-WOW
+Number and name of feature: Add a Module with an image and description.
+
+Estimate of time needed to complete: 2 Hours
+
+Start time: 1:02
+
+Finish time: 4:34
+
+Actual time needed to complete: 3 hours 32 mins
