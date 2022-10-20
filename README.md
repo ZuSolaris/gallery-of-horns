@@ -123,3 +123,15 @@ Start time: 1:02
 Finish time: 4:34
 
 Actual time needed to complete: 3 hours 32 mins
+
+
+Number and name of feature: Lab 4 Form and Filter
+
+Estimate of time needed to complete: 3 Hours
+
+Start time: 1:13
+
+Finish time: 4:44
+
+Actual time needed to complete: 3 Hours 31 Minutes
+
