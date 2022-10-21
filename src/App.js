@@ -6,7 +6,6 @@ import SelectedBeast from './SelectedBeast'
 import Footer from './Footer.js';
 import data from './data.json';
 import Form from 'react-bootstrap/Form';
-import Dropdown from 'react-bootstrap/Dropdown';
 import './App.css';
 
 
